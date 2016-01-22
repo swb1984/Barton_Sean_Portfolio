@@ -1,0 +1,1 @@
+I am currently working on Week 3 assignments and establishing a solid baseline for getting Git properly sorted. 
